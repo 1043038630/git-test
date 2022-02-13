@@ -8,6 +8,9 @@ public class GitTest {
         System.out.println("你好git");
         System.out.println("你好git2");
         System.out.println("你好git3");
+
+        System.out.println("正常版本更新");
         System.out.println("这是热修的代码");
+
     }
 }
