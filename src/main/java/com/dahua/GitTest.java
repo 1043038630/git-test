@@ -18,5 +18,9 @@ public class GitTest {
         System.out.println("开发版本更新");
 
         System.out.println("push测试");
+        
+        System.out.println("pull测试");
+        
+        
     }
 }
