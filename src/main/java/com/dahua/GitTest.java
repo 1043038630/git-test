@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("正常版本更新");
         System.out.println("这是热修的代码");
 
+        System.out.println("master代码");
+
     }
 }
